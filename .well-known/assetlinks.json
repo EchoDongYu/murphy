@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.murphy.codelab",
+    "sha256_cert_fingerprints":
+    ["FF:4E:BB:40:30:9A:19:DD:5F:A7:CC:3A:B6:13:4E:1D:80:B3:71:A2:F8:4A:96:C7:95:B8:BA:52:EC:D7:59:88"]
+  }
+}]
